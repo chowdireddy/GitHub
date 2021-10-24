@@ -1,2 +1,2 @@
 # GitHub
-git hub basic commands
+git basic commands
